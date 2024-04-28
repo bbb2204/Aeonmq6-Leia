@@ -5,7 +5,7 @@
 	name="Aeon MQ 6"
 	provider-name="MarcosQui">
 	<requires>
-	<import addon="xbmc.gui" version="5.15.0"/>
+	<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
 	<extension
 	  point="xbmc.gui.skin"
